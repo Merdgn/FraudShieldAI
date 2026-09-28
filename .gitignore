@@ -1,5 +1,17 @@
+# Sanal Ortam ve Python Dosyaları
 venv/
 __pycache__/
+*.pyc
 .ipynb_checkpoints/
 .env
-*.pyc
+
+# Veri Setleri (GitHub sınırını aşmamak için)
+*.csv
+data/
+
+# Eğitilmiş Makine Öğrenmesi Modelleri
+*.joblib
+models/
+
+# VS Code Ayarları
+.vscode/
