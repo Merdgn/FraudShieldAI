@@ -53,7 +53,7 @@ Projedeki Akıllı URL Kontrol Aracı, `Streamlit` kullanılarak bir web uygulam
 pip install pandas scikit-learn matplotlib streamlit joblib
 ```
 
-1. Web arayüzünü başlatın:
-
 ```bash
+2. Web arayüzünü başlatın:
 streamlit run app.py
+```
